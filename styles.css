@@ -1,0 +1,16 @@
+body {
+    height: 100vh;
+    background: radial-gradient(
+        72.92% 73.21% at 50% 12.23%,
+        #094b50 0%,
+        #001b2d 100%
+    );
+}
+
+.svg {
+    padding-top: 300px;
+}
+
+svg {
+    position: absolute;
+}
